@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "958625464231",
+    "project_id": "fertilizers-86dce",
+    "storage_bucket": "fertilizers-86dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958625464231:android:144ec4253a666f3a7e8082",
+        "android_client_info": {
+          "package_name": "com.bhavani.fertilizers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958625464231-892udftt1k7r7gf65acs34gj599hiaq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhavani.fertilizers",
+            "certificate_hash": "6781d9f76e190552f5ea39ba3b7cb3dcc03e96f2"
+          }
+        },
+        {
+          "client_id": "958625464231-53l3rm7c0ah27kap7vt75u1ippuhp364.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIq2r3fupO2mRl22WsXdHW9uMxP_HIhI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958625464231-53l3rm7c0ah27kap7vt75u1ippuhp364.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958625464231-v3t4qeaodoiot7pv3g0gsks6rfrpppt6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bhavani.fertilizers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
